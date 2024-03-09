@@ -1,0 +1,81 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 1, 2023, 4:21:36 PM
+    Author     : ACER
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+/* Styles for the header */
+.header {
+    background-color: #333;
+    color: #fff;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center; 
+    padding: 10px;
+}
+
+
+.header-left img {
+    width: 100px; 
+    height: auto;
+}
+
+ul li a{
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    margin-right: 10px;
+}
+
+ul li a:hover{
+    color: black;
+    border: 1px white solid;
+    border-radius: 3px;
+}
+
+.header-middle ul {
+    list-style: none;
+    padding: 0; 
+    display: flex;
+}
+
+.header-middle li {
+    margin-right: 20px; 
+    font-weight: bold; 
+}
+
+.header-right i {
+    font-size: 24px; 
+    color: #ff6600; 
+    cursor: pointer; 
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    font-size: 16px;
+}
+
+.address {
+    margin-top: 10px;
+}
