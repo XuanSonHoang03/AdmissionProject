@@ -38,7 +38,7 @@ Không cần cài đặt. Trang web Tuyển Sinh có thể truy cập thông qua
 
 ## Hỗ Trợ
 
-Nếu bạn gặp bất kỳ vấn đề nào khi sử dụng trang web, vui lòng liên hệ với chúng tôi qua email support@tuyensinh.com hoặc qua số điện thoại (0123) 456 789 để được hỗ trợ kịp thời.
+Nếu bạn gặp bất kỳ vấn đề nào khi sử dụng trang web, vui lòng liên hệ với chúng tôi qua email tuyensinhso@gmail.com
 
 Chúng tôi rất mong nhận được phản hồi từ bạn để cải thiện trang web ngày càng tốt hơn. Cảm ơn bạn đã sử dụng dịch vụ của chúng tôi!
 
